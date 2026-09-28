@@ -12,8 +12,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
 
       manifest: {
-        name: "Varsha's Progress",
-        short_name: "Varsha Progress",
+        name: "Varsha",
+        short_name: "Varsha",
         description: "Varsha's personal daily progress tracker",
 
         start_url: '/Varsha/',
